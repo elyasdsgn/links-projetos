@@ -22,7 +22,6 @@ body h1{
 
 section{
   position: relative;
-  overflow: hidden;
   height: 100%;
 }
 
@@ -73,18 +72,7 @@ a:hover{
   z-index: -20;
 }
 
-.section-informacoes{
-  padding: 80px 20px;
-  background-color: #0d0d0d;
-}
 
-.section-informacoes .informacoes p{
-  line-height: 1.5rem
-}
-
-.section-informacoes .informacoes p:last-child{
-  padding-top: 10px;
-}
 
 .bold{
   font-weight: 700;
